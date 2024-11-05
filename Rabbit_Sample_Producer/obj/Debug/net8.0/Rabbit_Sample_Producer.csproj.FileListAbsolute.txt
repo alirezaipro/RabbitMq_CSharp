@@ -1,0 +1,17 @@
+D:\Project\RabbitMQ Project\Rabbit_Smaple\Rabbit_Sample_Producer\bin\Debug\net8.0\Rabbit_Sample_Producer.exe
+D:\Project\RabbitMQ Project\Rabbit_Smaple\Rabbit_Sample_Producer\bin\Debug\net8.0\Rabbit_Sample_Producer.deps.json
+D:\Project\RabbitMQ Project\Rabbit_Smaple\Rabbit_Sample_Producer\bin\Debug\net8.0\Rabbit_Sample_Producer.runtimeconfig.json
+D:\Project\RabbitMQ Project\Rabbit_Smaple\Rabbit_Sample_Producer\bin\Debug\net8.0\Rabbit_Sample_Producer.dll
+D:\Project\RabbitMQ Project\Rabbit_Smaple\Rabbit_Sample_Producer\bin\Debug\net8.0\Rabbit_Sample_Producer.pdb
+D:\Project\RabbitMQ Project\Rabbit_Smaple\Rabbit_Sample_Producer\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Project\RabbitMQ Project\Rabbit_Smaple\Rabbit_Sample_Producer\obj\Debug\net8.0\Rabbit_Sample_Producer.csproj.AssemblyReference.cache
+D:\Project\RabbitMQ Project\Rabbit_Smaple\Rabbit_Sample_Producer\obj\Debug\net8.0\Rabbit_Sample_Producer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\RabbitMQ Project\Rabbit_Smaple\Rabbit_Sample_Producer\obj\Debug\net8.0\Rabbit_Sample_Producer.AssemblyInfoInputs.cache
+D:\Project\RabbitMQ Project\Rabbit_Smaple\Rabbit_Sample_Producer\obj\Debug\net8.0\Rabbit_Sample_Producer.AssemblyInfo.cs
+D:\Project\RabbitMQ Project\Rabbit_Smaple\Rabbit_Sample_Producer\obj\Debug\net8.0\Rabbit_Sample_Producer.csproj.CoreCompileInputs.cache
+D:\Project\RabbitMQ Project\Rabbit_Smaple\Rabbit_Sample_Producer\obj\Debug\net8.0\Rabbit_S.24A30365.Up2Date
+D:\Project\RabbitMQ Project\Rabbit_Smaple\Rabbit_Sample_Producer\obj\Debug\net8.0\Rabbit_Sample_Producer.dll
+D:\Project\RabbitMQ Project\Rabbit_Smaple\Rabbit_Sample_Producer\obj\Debug\net8.0\refint\Rabbit_Sample_Producer.dll
+D:\Project\RabbitMQ Project\Rabbit_Smaple\Rabbit_Sample_Producer\obj\Debug\net8.0\Rabbit_Sample_Producer.pdb
+D:\Project\RabbitMQ Project\Rabbit_Smaple\Rabbit_Sample_Producer\obj\Debug\net8.0\Rabbit_Sample_Producer.genruntimeconfig.cache
+D:\Project\RabbitMQ Project\Rabbit_Smaple\Rabbit_Sample_Producer\obj\Debug\net8.0\ref\Rabbit_Sample_Producer.dll

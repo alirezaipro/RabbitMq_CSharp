@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\RabbitMQ Project\\Rabbit_Smaple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9E676D-2B4D-49A2-AC93-521418C244BD}|Rabbit_Sample_Producer\\Rabbit_Sample_Producer.csproj|d:\\project\\rabbitmq project\\rabbit_smaple\\rabbit_sample_producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9E676D-2B4D-49A2-AC93-521418C244BD}|Rabbit_Sample_Producer\\Rabbit_Sample_Producer.csproj|solutionrelative:rabbit_sample_producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9E676D-2B4D-49A2-AC93-521418C244BD}|Rabbit_Sample_Producer\\Rabbit_Sample_Producer.csproj|d:\\project\\rabbitmq project\\rabbit_smaple\\rabbit_sample_producer\\rabbit_sample_producer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF9E676D-2B4D-49A2-AC93-521418C244BD}|Rabbit_Sample_Producer\\Rabbit_Sample_Producer.csproj|solutionrelative:rabbit_sample_producer\\rabbit_sample_producer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76CAC32-33F6-4731-8D00-3D04817226FA}|Rabbit_Sample_Consumer_two\\Rabbit_Sample_Consumer_two.csproj|d:\\project\\rabbitmq project\\rabbit_smaple\\rabbit_sample_consumer_two\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76CAC32-33F6-4731-8D00-3D04817226FA}|Rabbit_Sample_Consumer_two\\Rabbit_Sample_Consumer_two.csproj|solutionrelative:rabbit_sample_consumer_two\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA36121-A416-457F-84FE-1E6668927378}|Rabbit_Sample_Consumer\\Rabbit_Sample_Consumer.csproj|d:\\project\\rabbitmq project\\rabbit_smaple\\rabbit_sample_consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA36121-A416-457F-84FE-1E6668927378}|Rabbit_Sample_Consumer\\Rabbit_Sample_Consumer.csproj|solutionrelative:rabbit_sample_consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rabbit_Sample_Producer",
+              "DocumentMoniker": "D:\\Project\\RabbitMQ Project\\Rabbit_Smaple\\Rabbit_Sample_Producer\\Rabbit_Sample_Producer.csproj",
+              "RelativeDocumentMoniker": "Rabbit_Sample_Producer\\Rabbit_Sample_Producer.csproj",
+              "ToolTip": "D:\\Project\\RabbitMQ Project\\Rabbit_Smaple\\Rabbit_Sample_Producer\\Rabbit_Sample_Producer.csproj",
+              "RelativeToolTip": "Rabbit_Sample_Producer\\Rabbit_Sample_Producer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T19:57:50.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\RabbitMQ Project\\Rabbit_Smaple\\Rabbit_Sample_Consumer_two\\Program.cs",
+              "RelativeDocumentMoniker": "Rabbit_Sample_Consumer_two\\Program.cs",
+              "ToolTip": "D:\\Project\\RabbitMQ Project\\Rabbit_Smaple\\Rabbit_Sample_Consumer_two\\Program.cs",
+              "RelativeToolTip": "Rabbit_Sample_Consumer_two\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:57:03.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\RabbitMQ Project\\Rabbit_Smaple\\Rabbit_Sample_Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "Rabbit_Sample_Consumer\\Program.cs",
+              "ToolTip": "D:\\Project\\RabbitMQ Project\\Rabbit_Smaple\\Rabbit_Sample_Consumer\\Program.cs",
+              "RelativeToolTip": "Rabbit_Sample_Consumer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:56:45.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\RabbitMQ Project\\Rabbit_Smaple\\Rabbit_Sample_Producer\\Program.cs",
+              "RelativeDocumentMoniker": "Rabbit_Sample_Producer\\Program.cs",
+              "ToolTip": "D:\\Project\\RabbitMQ Project\\Rabbit_Smaple\\Rabbit_Sample_Producer\\Program.cs",
+              "RelativeToolTip": "Rabbit_Sample_Producer\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:55:24.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
